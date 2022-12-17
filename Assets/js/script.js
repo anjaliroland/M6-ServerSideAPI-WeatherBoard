@@ -1,7 +1,2 @@
-/*
-API link: api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={API key}
 
-
-
-
-*/
+var APIKey = "e5997cecec74377c7114fa3367f39a12"
